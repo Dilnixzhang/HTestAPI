@@ -1,0 +1,178 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554625656142" stop="1554625657567">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554625656142" status="passed" stop="1554625656547">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changePwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="修改密码成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656549" status="passed" stop="1554625656587">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changFail</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="修改密码模块"/>
+        <label name="story" value="旧密码错误，修改失败"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656588" status="passed" stop="1554625656650">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_getUserInfo.Test_getUserinfo.test_getUserInfo</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="获取用户信息模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656660" status="passed" stop="1554625656740">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_login.Test_login.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="登录成功"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656740" status="passed" stop="1554625656820">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_login.Test_login.test_login_pwd_fail</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="登录用户名或密码错误"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656820" status="passed" stop="1554625656840">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_login.Test_login.test_login_user_fail</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="用户名不存在"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656840" status="passed" stop="1554625656870">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_login.Test_login.test_login_no_name</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656870" status="passed" stop="1554625656945">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_login.Test_login.test_login_no_pwd</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="无密码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656946" status="passed" stop="1554625656991">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\sys.test_sys_login.Test_login.test_login_forbidde</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="story" value="用户禁止登录"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625656992" status="passed" stop="1554625657042">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\user.test_user_saveOrUpdateUser.Test_User.test_user_saveOrUpdate</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625657043" status="passed" stop="1554625657086">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\user.test_user_saveOrUpdateUser.Test_User.test_login</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625657087" status="passed" stop="1554625657465">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\user.test_user_saveOrUpdateUser.Test_User.test_loadUserList</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625657466" status="passed" stop="1554625657567">
+      <name>D:\Users\hejiwei\PycharmProjects\HTestAPI\testcase\user.test_user_saveOrUpdateUser.Test_User.test_user_loadUserInfo</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10720-MainThread"/>
+        <label name="host" value="hejiwei-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

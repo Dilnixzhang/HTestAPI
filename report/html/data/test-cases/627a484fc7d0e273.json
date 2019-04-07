@@ -1,0 +1,60 @@
+{
+  "uid" : "627a484fc7d0e273",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_loadUserInfo",
+  "fullName" : "testcase.D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_loadUserInfo",
+  "historyId" : "2e438597ae3178f3e0af24b68544a5a9",
+  "time" : {
+    "start" : 1554625657466,
+    "stop" : 1554625657567,
+    "duration" : 101
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "hejiwei-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "10720-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_loadUserInfo"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "627a484fc7d0e273.json",
+  "parameterValues" : [ ]
+}

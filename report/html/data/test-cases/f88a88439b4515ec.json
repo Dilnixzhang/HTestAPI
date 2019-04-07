@@ -1,0 +1,66 @@
+{
+  "uid" : "f88a88439b4515ec",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_pwd",
+  "fullName" : "testcase.D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_pwd",
+  "historyId" : "3af5ee5c7b1206aa0025c746c484648b",
+  "time" : {
+    "start" : 1554625656870,
+    "stop" : 1554625656945,
+    "duration" : 75
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "hejiwei-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "无密码"
+  }, {
+    "name" : "thread",
+    "value" : "10720-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_pwd"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f88a88439b4515ec.json",
+  "parameterValues" : [ ]
+}

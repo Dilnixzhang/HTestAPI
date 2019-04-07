@@ -1,0 +1,66 @@
+{
+  "uid" : "61cdbec805195ecb",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_forbidde",
+  "fullName" : "testcase.D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_forbidde",
+  "historyId" : "9ed4925aa3ddaee74ce73f17162e4107",
+  "time" : {
+    "start" : 1554625656946,
+    "stop" : 1554625656991,
+    "duration" : 45
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "hejiwei-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户禁止登录"
+  }, {
+    "name" : "thread",
+    "value" : "10720-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_forbidde"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61cdbec805195ecb.json",
+  "parameterValues" : [ ]
+}

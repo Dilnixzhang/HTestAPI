@@ -1,0 +1,201 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changePwd",
+        "uid" : "ac4541be0214ec83",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554625656142,
+          "stop" : 1554625656547,
+          "duration" : 405
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    }, {
+      "name" : "旧密码错误，修改失败",
+      "children" : [ {
+        "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changFail",
+        "uid" : "2a2755e2bc40eb9e",
+        "parentUid" : "5d7954c8ba28bc8bc92af33791688b83",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554625656549,
+          "stop" : 1554625656587,
+          "duration" : 38
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5d7954c8ba28bc8bc92af33791688b83"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "获取用户信息模块",
+    "children" : [ {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_getUserInfo.Test_getUserinfo.test_getUserInfo",
+      "uid" : "ee78bd377700e8c8",
+      "parentUid" : "de92305d835ca068670dae1d51a782c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656588,
+        "stop" : 1554625656650,
+        "duration" : 62
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "de92305d835ca068670dae1d51a782c9"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login",
+        "uid" : "eabc3fa9bb46d73",
+        "parentUid" : "57a00934f1bd353362aa1d78642bc405",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554625656660,
+          "stop" : 1554625656740,
+          "duration" : 80
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57a00934f1bd353362aa1d78642bc405"
+    }, {
+      "name" : "登录用户名或密码错误",
+      "children" : [ {
+        "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_pwd_fail",
+        "uid" : "2d19965c536fee92",
+        "parentUid" : "21df9fc3cb18a63399e41146df9449c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554625656740,
+          "stop" : 1554625656820,
+          "duration" : 80
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "21df9fc3cb18a63399e41146df9449c4"
+    }, {
+      "name" : "用户名不存在",
+      "children" : [ {
+        "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_user_fail",
+        "uid" : "4bd9e4bd213a995d",
+        "parentUid" : "57dd6ebb611672e5598fb7b107221921",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554625656820,
+          "stop" : 1554625656840,
+          "duration" : 20
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57dd6ebb611672e5598fb7b107221921"
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_name",
+      "uid" : "5f421d48cd6a87aa",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656840,
+        "stop" : 1554625656870,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "无密码",
+      "children" : [ {
+        "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_pwd",
+        "uid" : "f88a88439b4515ec",
+        "parentUid" : "47df203de05f38b2c6d2e1419a5b6844",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554625656870,
+          "stop" : 1554625656945,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "47df203de05f38b2c6d2e1419a5b6844"
+    }, {
+      "name" : "用户禁止登录",
+      "children" : [ {
+        "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_forbidde",
+        "uid" : "61cdbec805195ecb",
+        "parentUid" : "a11f161bbbbe592cfccea11bb2f262a1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554625656946,
+          "stop" : 1554625656991,
+          "duration" : 45
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a11f161bbbbe592cfccea11bb2f262a1"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_saveOrUpdate",
+    "uid" : "761e54a778cd1e88",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1554625656992,
+      "stop" : 1554625657042,
+      "duration" : 50
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_login",
+    "uid" : "e2ca434dad62a747",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1554625657043,
+      "stop" : 1554625657086,
+      "duration" : 43
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_loadUserList",
+    "uid" : "a4ecd5e69aae7603",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1554625657087,
+      "stop" : 1554625657465,
+      "duration" : 378
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_loadUserInfo",
+    "uid" : "627a484fc7d0e273",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1554625657466,
+      "stop" : 1554625657567,
+      "duration" : 101
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

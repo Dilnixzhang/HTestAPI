@@ -1,0 +1,63 @@
+{
+  "uid" : "ee78bd377700e8c8",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_getUserInfo.Test_getUserinfo.test_getUserInfo",
+  "fullName" : "testcase.D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_getUserInfo.Test_getUserinfo.test_getUserInfo",
+  "historyId" : "d991e7dd110b7c739cee66b96719800",
+  "time" : {
+    "start" : 1554625656588,
+    "stop" : 1554625656650,
+    "duration" : 62
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取用户信息模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "hejiwei-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "10720-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_getUserInfo.Test_getUserinfo.test_getUserInfo"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee78bd377700e8c8.json",
+  "parameterValues" : [ ]
+}

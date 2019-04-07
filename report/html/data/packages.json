@@ -1,0 +1,165 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changePwd",
+      "uid" : "ac4541be0214ec83",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656142,
+        "stop" : 1554625656547,
+        "duration" : 405
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changFail",
+      "uid" : "2a2755e2bc40eb9e",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656549,
+        "stop" : 1554625656587,
+        "duration" : 38
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_getUserInfo.Test_getUserinfo.test_getUserInfo",
+      "uid" : "ee78bd377700e8c8",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656588,
+        "stop" : 1554625656650,
+        "duration" : 62
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login",
+      "uid" : "eabc3fa9bb46d73",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656660,
+        "stop" : 1554625656740,
+        "duration" : 80
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_pwd_fail",
+      "uid" : "2d19965c536fee92",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656740,
+        "stop" : 1554625656820,
+        "duration" : 80
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_user_fail",
+      "uid" : "4bd9e4bd213a995d",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656820,
+        "stop" : 1554625656840,
+        "duration" : 20
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_name",
+      "uid" : "5f421d48cd6a87aa",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656840,
+        "stop" : 1554625656870,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_pwd",
+      "uid" : "f88a88439b4515ec",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656870,
+        "stop" : 1554625656945,
+        "duration" : 75
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_forbidde",
+      "uid" : "61cdbec805195ecb",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656946,
+        "stop" : 1554625656991,
+        "duration" : 45
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_saveOrUpdate",
+      "uid" : "761e54a778cd1e88",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625656992,
+        "stop" : 1554625657042,
+        "duration" : 50
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_login",
+      "uid" : "e2ca434dad62a747",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625657043,
+        "stop" : 1554625657086,
+        "duration" : 43
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_loadUserList",
+      "uid" : "a4ecd5e69aae7603",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625657087,
+        "stop" : 1554625657465,
+        "duration" : 378
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_loadUserInfo",
+      "uid" : "627a484fc7d0e273",
+      "parentUid" : "559e15d0a5469c40d1629e36b5ae40ea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554625657466,
+        "stop" : 1554625657567,
+        "duration" : 101
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "559e15d0a5469c40d1629e36b5ae40ea"
+  } ]
+}

@@ -1,0 +1,131 @@
+[ {
+  "uid" : "4bd9e4bd213a995d",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_user_fail",
+  "time" : {
+    "start" : 1554625656820,
+    "stop" : 1554625656840,
+    "duration" : 20
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "627a484fc7d0e273",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_loadUserInfo",
+  "time" : {
+    "start" : 1554625657466,
+    "stop" : 1554625657567,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4ecd5e69aae7603",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_loadUserList",
+  "time" : {
+    "start" : 1554625657087,
+    "stop" : 1554625657465,
+    "duration" : 378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee78bd377700e8c8",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_getUserInfo.Test_getUserinfo.test_getUserInfo",
+  "time" : {
+    "start" : 1554625656588,
+    "stop" : 1554625656650,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eabc3fa9bb46d73",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login",
+  "time" : {
+    "start" : 1554625656660,
+    "stop" : 1554625656740,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2ca434dad62a747",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_login",
+  "time" : {
+    "start" : 1554625657043,
+    "stop" : 1554625657086,
+    "duration" : 43
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a2755e2bc40eb9e",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changFail",
+  "time" : {
+    "start" : 1554625656549,
+    "stop" : 1554625656587,
+    "duration" : 38
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f88a88439b4515ec",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_pwd",
+  "time" : {
+    "start" : 1554625656870,
+    "stop" : 1554625656945,
+    "duration" : 75
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f421d48cd6a87aa",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_no_name",
+  "time" : {
+    "start" : 1554625656840,
+    "stop" : 1554625656870,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ac4541be0214ec83",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_changePwd.Test_ChangePwd.test_sys_changePwd",
+  "time" : {
+    "start" : 1554625656142,
+    "stop" : 1554625656547,
+    "duration" : 405
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61cdbec805195ecb",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_forbidde",
+  "time" : {
+    "start" : 1554625656946,
+    "stop" : 1554625656991,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "761e54a778cd1e88",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\user.test_user_saveOrUpdateUser.Test_User.test_user_saveOrUpdate",
+  "time" : {
+    "start" : 1554625656992,
+    "stop" : 1554625657042,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d19965c536fee92",
+  "name" : "D:\\Users\\hejiwei\\PycharmProjects\\HTestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_pwd_fail",
+  "time" : {
+    "start" : 1554625656740,
+    "stop" : 1554625656820,
+    "duration" : 80
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
